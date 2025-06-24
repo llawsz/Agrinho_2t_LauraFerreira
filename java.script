@@ -1,0 +1,3 @@
+function mostrarAlerta() {
+  alert("Obrigado por explorar a agricultura sustentável! Vamos juntos cuidar da nossa terra.");
+}
